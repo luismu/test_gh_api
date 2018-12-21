@@ -1,0 +1,14 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "luis murillo",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": { 
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
