@@ -5,7 +5,8 @@
   "author": "luis murillo",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon server.js"
+    "server": "nodemon server.js",
+    "start": "node server.js"
   },
   "dependencies": { 
     "body-parser": "^1.18.3",
